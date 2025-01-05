@@ -39,23 +39,15 @@ Famo Robotics specializes in developing humanoid robots tailored for Quick Servi
 > "Our labor costs have dropped significantly since we started using Famo Robotics. It's a game changer!"  
 > **Emily Wong**, Operations Director at KFC
 
-## Get Involved
-
-We welcome collaboration and contributions from the open-source community. If you're interested in working with us, please check out our [contribution guidelines](https://github.com/famo-robotics/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/famo-robotics/.github/blob/main/CODE_OF_CONDUCT.md).
-
 ## Contact Us
 
-- **Website**: [https://famo-robotics.pagen.io/](https://famo-robotics.pagen.io/)
+- **Website**: [https://www.famorobotics.com/](https://www.famorobotics.com/)
 
-- **Email**: info@famo-robotics.com
+- **Email**: joshua.zhang@famorobotics.com
 
-- **LinkedIn**: [Famo Robotics](https://www.linkedin.com/company/famo-robotics)
+- **LinkedIn**: [Famo Robotics](https://www.linkedin.com/company/famorobotics)
 
 - **Twitter**: [@FamoRobotics](https://twitter.com/FamoRobotics)
-
-## License
-
-This organization and its repositories are licensed under the [MIT License](https://github.com/famo-robotics/.github/blob/main/LICENSE).
 
 ---
 
