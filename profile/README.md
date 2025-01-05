@@ -1,6 +1,6 @@
 # Welcome to Famo Robotics
 
-![Famo Robotics Logo](https://famo-robotics.pagen.io/logo.png)
+![Famo Robotics Logo](,/logo.png)
 
 ## About Us
 
